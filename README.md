@@ -1,5 +1,9 @@
-<div align="center">  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weiwang0305&theme=dark)](https://github.com/weiwang0305)
+# 👋 Hi there, I'm Wei Wang.
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME)
+
 </div>
 
 ## 📊 GitHub Stats
