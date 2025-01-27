@@ -13,9 +13,9 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=weiwang0305&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=weiwang0305&layout=compact&theme=dark)](https://github.com/weiwang0305)
 
 </div>
 
@@ -33,7 +33,7 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiwang0305&repo=YOUR_REPO_NAME&theme=dark)](https://github.com/weiwang0305/)
 
 </div>
 
