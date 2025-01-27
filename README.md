@@ -1,9 +1,9 @@
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weiwang0305&theme=dark)](https://github.com/weiwang0305)
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=weiwang0305&show_icons=true&theme=dark)
+![Wei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiwang0305&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiwang0305)](https://github.com/weiwang0305/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weiwang0305&theme=react-dark)](https://github.com/weiwang0305/github-readme-activity-graph)
+[!Wei's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=weiwang0305&theme=react-dark)](https://github.com/weiwang0305/github-readme-activity-graph)
 
