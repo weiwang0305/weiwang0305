@@ -33,7 +33,7 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiwang0305&repo=YOUR_REPO_NAME&theme=dark)](https://github.com/weiwang0305/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiwang0305&repo=Golden-Coffee&theme=dark)](https://github.com/weiwang0305/)
 
 </div>
 
@@ -43,12 +43,12 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/weiang0305)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 
 ## 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weiwang0305&theme=react-dark)](https://github.com/weiwang0305/github-readme-activity-graph)
 
 ---
 
@@ -56,6 +56,6 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
   
 ### 👀 Profile Views
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=weiwang0305&color=brightgreen)
 
 </div>
