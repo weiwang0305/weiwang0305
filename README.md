@@ -3,7 +3,10 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiwang0305)](https://github.com/weiwang0305/github-readme-stats)
+[![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiwang0305)](https://github.com/weiwang0305/github-readme-stats)
+
+
+![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiwang0305&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 **weiwang0305/weiwang0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
