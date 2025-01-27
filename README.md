@@ -1,12 +1,5 @@
-# 👋 Hi there, I'm [Your Name]
-
-## 🚀 About Me
-I'm a passionate developer who loves turning ideas into reality through code. I specialize in full-stack development with a focus on modern web technologies.
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME)
-
+<div align="center">  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weiwang0305&theme=dark)](https://github.com/weiwang0305)
 </div>
 
 ## 📊 GitHub Stats
