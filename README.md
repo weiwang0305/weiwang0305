@@ -15,7 +15,7 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
   
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=weiwang0305&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=weiwang0305&layout=compact&theme=dark)](https://github.com/weiwang0305)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiwang0305)](https://github.com/weiwang0305/github-readme-stats)
 
 </div>
 
