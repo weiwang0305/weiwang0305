@@ -1,6 +1,4 @@
 <div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px">
-    <img src="https://github-readme-stats.vercel.app/api?username=weiwang0305&show_icons=true&theme=dark" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiwang0305" alt="Top Languages" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=weiwang0305&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiwang0305" alt="Top Languages" />
 </div>
