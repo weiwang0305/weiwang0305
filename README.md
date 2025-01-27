@@ -3,9 +3,7 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiwang0305)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **weiwang0305/weiwang0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
